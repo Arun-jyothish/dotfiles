@@ -1,0 +1,22 @@
+[2022-07-12 21:10:09.311] [sharedprocess] [info] Deleted from disk vscodevim.vim /home/erk/.vscode-oss/extensions/vscodevim.vim-1.22.2
+[2022-07-12 21:10:09.442] [sharedprocess] [info] Deleted from disk bierner.markdown-mermaid /home/erk/.vscode-oss/extensions/bierner.markdown-mermaid-1.14.0
+[2022-07-12 21:10:09.444] [sharedprocess] [info] Deleted from disk eamodio.gitlens /home/erk/.vscode-oss/extensions/eamodio.gitlens-12.0.6
+[2022-07-12 21:10:09.451] [sharedprocess] [info] Deleted from disk zhuangtongfa.material-theme /home/erk/.vscode-oss/extensions/zhuangtongfa.material-theme-3.14.3
+[2022-07-12 21:10:09.517] [sharedprocess] [info] Starting worker process with pid 2308 (type: fileWatcher, window: 1).
+[2022-07-12 21:10:09.701] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/erk/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443
+[2022-07-12 21:10:09.730] [sharedprocess] [info] Deleted from disk teamhub.teamhub /home/erk/.vscode-oss/extensions/teamhub.teamhub-15.0.7
+[2022-07-12 21:10:10.082] [sharedprocess] [info] Deleted from disk ms-python.python /home/erk/.vscode-oss/extensions/ms-python.python-2022.6.2
+[2022-07-12 21:20:29.136] [sharedprocess] [info] Getting Manifest... travis.simple-dark
+[2022-07-12 21:20:29.321] [sharedprocess] [info] Installing extension: travis.simple-dark
+[2022-07-12 21:20:32.680] [sharedprocess] [info] Downloaded extension: travis.simple-dark /home/erk/.config/Code - OSS/CachedExtensionVSIXs/travis.simple-dark-1.0.1
+[2022-07-12 21:20:32.839] [sharedprocess] [info] Extracted extension to /home/erk/.vscode-oss/extensions/.dbd2afd5-2bb8-4807-ae5a-ee6863da45bd: travis.simple-dark
+[2022-07-12 21:20:32.851] [sharedprocess] [info] Renamed to /home/erk/.vscode-oss/extensions/travis.simple-dark-1.0.1
+[2022-07-12 21:20:32.853] [sharedprocess] [info] Extracting completed. travis.simple-dark
+[2022-07-12 21:20:32.855] [sharedprocess] [info] Extension installed successfully: travis.simple-dark
+[2022-07-12 21:21:34.358] [sharedprocess] [info] Getting Manifest... mpty.pack-arduino
+[2022-07-12 21:21:34.550] [sharedprocess] [info] Installing extension: mpty.pack-arduino
+[2022-07-12 21:21:37.306] [sharedprocess] [info] Downloaded extension: mpty.pack-arduino /home/erk/.config/Code - OSS/CachedExtensionVSIXs/mpty.pack-arduino-0.1.0
+[2022-07-12 21:21:37.329] [sharedprocess] [info] Extracted extension to /home/erk/.vscode-oss/extensions/.3f6f4743-5a91-40dc-b00a-328e57384abd: mpty.pack-arduino
+[2022-07-12 21:21:37.335] [sharedprocess] [info] Renamed to /home/erk/.vscode-oss/extensions/mpty.pack-arduino-0.1.0
+[2022-07-12 21:21:37.337] [sharedprocess] [info] Extracting completed. mpty.pack-arduino
+[2022-07-12 21:21:37.338] [sharedprocess] [info] Extension installed successfully: mpty.pack-arduino

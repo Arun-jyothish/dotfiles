@@ -1,0 +1,21 @@
+[2022-05-06 21:39:21.871] [exthost] [info] Extension host with pid 3135 started
+[2022-05-06 21:39:22.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-05-06 21:39:22.027] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-05-06 21:39:22.059] [exthost] [info] ExtensionService#_doActivateExtension yzane.markdown-pdf, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-05-06 21:39:22.062] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-06 21:39:22.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-06 21:39:22.073] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-06 21:39:22.079] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-05-06 21:39:22.112] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-05-06 21:39:22.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-06 21:39:22.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-06 21:39:23.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-05-06 21:39:23.060] [exthost] [info] ExtensionService#_doActivateExtension bierner.markdown-mermaid, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-05-06 21:39:23.083] [exthost] [info] Eager extensions activated
+[2022-05-06 21:39:23.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-06 21:39:23.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-06 21:39:23.136] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-06 21:39:23.180] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-06 21:39:23.215] [exthost] [info] ExtensionService#_doActivateExtension TeamHub.teamhub, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-06 21:39:23.508] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-06 21:40:35.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'

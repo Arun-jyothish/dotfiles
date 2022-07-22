@@ -1,0 +1,6 @@
+[History]
+CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=https://www.youtube.com/watch?v=6qBdQzPnw4E,https://youtube.com,https://github.com/,https://github.ocm,https://google.com,konq:konqueror,https://www.flipkart.com,https://gmail.com,https://13323.jpg,https://drive.google.com
+ComboIconCache[$e]=https://www.youtube.com/watch?v=6qBdQzPnw4E,$HOME/.cache/favicons/www.youtube.com.png,https://youtube.com,text-html,https://github.com/,$HOME/.cache/favicons/github.githubassets.com_favicons_favicon.png,https://github.ocm,text-html,https://google.com,text-html,konq:konqueror,application-octet-stream,https://www.flipkart.com,text-html,https://gmail.com,text-html,https://13323.jpg,text-html,https://drive.google.com,text-html

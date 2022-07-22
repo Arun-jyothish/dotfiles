@@ -1,0 +1,18 @@
+00:00:00.467945 VirtualBox GUI VM Selector Window 6.1.32 r149290 linux.amd64 (Jan 18 2022 20:32:19) release log
+00:00:00.467948 Log opened 2022-02-11T15:48:13.629386000Z
+00:00:00.467950 Build Type: release
+00:00:00.467954 OS Product: Linux
+00:00:00.467956 OS Release: 5.16.5-arch1-1
+00:00:00.467958 OS Version: #1 SMP PREEMPT Tue, 01 Feb 2022 21:42:50 +0000
+00:00:00.467985 DMI Product Name: HP ENVY x360 Convertible 13-ay0xxx
+00:00:00.467995 DMI Product Version: Type1ProductConfigId
+00:00:00.468001 Firmware type: UEFI
+00:00:00.468673 Secure Boot: Disabled
+00:00:00.468740 Host RAM: 7393MB (7.2GB) total, 3354MB (3.2GB) available
+00:00:00.468746 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.468747 Process ID: 3923
+00:00:00.468749 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.468801 Qt version: 5.15.2
+00:00:00.477792 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.477827 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.032288 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1920x1080

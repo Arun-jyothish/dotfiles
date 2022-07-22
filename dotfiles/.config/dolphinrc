@@ -1,0 +1,38 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Pictures/EMBIoT picttures/,$HOME/Documents/,$HOME/.local/share/kicad/6.0/3rdparty/,$HOME/bin/,$HOME/,$HOME/WorkSpace/kicad/PORTABLE_ECG_MACHINE/PORTABLE_ECG_MACHINE/models/,$HOME/WorkSpace/kicad/PORTABLE_ECG_MACHINE/
+eDP-1 Height 1920x1080=620
+eDP-1 Width 1920x1080=1280
+
+[General]
+Version=201
+ViewPropsTimestamp=2021,10,21,3,6,22.802
+
+[IconsMode]
+PreviewSize=80
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME/Pictures/iot camp,file:$HOME/bin
+Recent URLs[$e]=file:$HOME/WorkSpace/kicad/PORTABLE_ECG_MACHINE/,file:$HOME/WorkSpace/kicad/,file:$HOME/WorkSpace/,file:$HOME/,file:$HOME/bin/,file:$HOME/.local/share/kicad/6.0/3rdparty/,file:$HOME/Downloads/,file:$HOME/Documents/,file:$HOME/Pictures/EMBIoT picttures/
+iconViewIconSize=64
+
+[KPropertiesDialog]
+eDP-1 Height 1920x1080=644
+eDP-1 Width 1920x1080=483
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=1030
+eDP-1 Width 1920x1080=952
+eDP-1 XPosition 1920x1080=968
+eDP-1 YPosition 1920x1080=44
+
+[Notification Messages]
+ConfirmDelete=true
+ConfirmEmptyTrash=true
+
+[Open-with settings]
+CompletionMode=1
+History=ble

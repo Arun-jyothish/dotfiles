@@ -1,0 +1,20 @@
+[2022-07-12 21:23:42.327] [exthost] [info] Extension host with pid 5366 started
+[2022-07-12 21:23:42.327] [exthost] [info] Skipping acquiring lock for /home/erk/.config/Code - OSS/User/workspaceStorage/deefd7149a009a94590b5270d3783d00.
+[2022-07-12 21:23:42.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-12 21:23:42.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-12 21:23:42.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-12 21:23:42.481] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-07-12 21:23:42.504] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-07-12 21:23:43.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-12 21:23:44.010] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-12 21:23:44.072] [exthost] [info] Eager extensions activated
+[2022-07-12 21:23:44.092] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 21:23:44.100] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 21:23:44.102] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 21:23:44.146] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 21:23:44.189] [exthost] [info] ExtensionService#_doActivateExtension TeamHub.teamhub, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 21:23:44.486] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 21:24:16.880] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-12 21:24:16.939] [exthost] [error] Error: read ECONNRESET
+    at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-12 21:24:16.944] [exthost] [info] Extension host with pid 5366 exiting with code 0

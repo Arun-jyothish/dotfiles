@@ -1,0 +1,11 @@
+[Appearance]
+BackgroundColorOpacity=80
+HideSkinBorders=true
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Height=74
+ShowTabBar=false
+ShowTitleBar=false

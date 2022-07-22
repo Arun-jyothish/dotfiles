@@ -1,0 +1,15 @@
+[2022-05-14 14:05:43.686] [exthost] [info] Extension host with pid 2860 started
+[2022-05-14 14:05:43.784] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2022-05-14 14:05:43.796] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-14 14:05:43.802] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-05-14 14:05:43.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-14 14:05:43.836] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-05-14 14:05:44.060] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-14 14:05:44.087] [exthost] [info] Eager extensions activated
+[2022-05-14 14:05:44.227] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-14 14:05:44.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-14 14:05:44.265] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-14 14:05:44.466] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-14 14:05:44.595] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-14 14:05:51.000] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-14 14:05:51.033] [exthost] [info] Extension host with pid 2860 exiting with code 0

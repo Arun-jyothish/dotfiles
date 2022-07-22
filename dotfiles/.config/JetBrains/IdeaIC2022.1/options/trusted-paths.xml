@@ -1,0 +1,16 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$" value="true" />
+        <entry key="$USER_HOME$/.cache/JetBrains/IdeaIC2022.1/demo/IdeaLearningProject" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/arduino_serial_plot" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/intro-arun-jyothish" value="true" />
+        <entry key="$USER_HOME$/WorkSpace/kicad/PORTABLE_ECG_MACHINE" value="true" />
+        <entry key="/run/media/erk/Shared Partition/Home/WorkSpace/Waver" value="true" />
+        <entry key="/tmp/README.md" value="true" />
+        <entry key="/tmp/README.md1" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

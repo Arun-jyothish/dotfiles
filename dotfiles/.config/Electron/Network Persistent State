@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"isolation":[],"network_stats":{"srtt":113937},"server":"https://r1---sn-8vq54voxpo-jv3e.gvt1.com"},{"isolation":[],"server":"https://redirector.gvt1.com","supports_spdy":true}],"supports_quic":{"address":"2402:3a80:e28:6e28:11bf:bf15:f883:5313","used_quic":true},"version":5},"network_qualities":{"CAISABiAgICA+P////8B":"3G"}}}

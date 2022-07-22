@@ -1,0 +1,7 @@
+file:///home/erk/WorkSpace/code/Random_Word/README.md {"mtime":1651391597646,"ctime":1651391256426,"size":39,"etag":"38l7q3lcp18","orphaned":false,"typeId":""}
+## DB of friends
+
+```mermaid
+    flowchart LR
+        a[Enter program]-->b[Enter option]
+

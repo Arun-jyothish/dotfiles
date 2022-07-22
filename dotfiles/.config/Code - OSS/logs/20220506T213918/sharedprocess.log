@@ -1,0 +1,16 @@
+[2022-05-06 21:39:22.266] [sharedprocess] [info] Starting worker process with pid 3170 (type: fileWatcher, window: 1).
+[2022-05-06 21:39:22.459] [sharedprocess] [info] Deleted from disk eamodio.gitlens /home/erk/.vscode-oss/extensions/eamodio.gitlens-12.0.5
+[2022-05-06 21:39:22.461] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/erk/.vscode-oss/extensions/esbenp.prettier-vscode-9.3.0
+[2022-05-06 21:39:22.462] [sharedprocess] [info] Deleted from disk zhuangtongfa.material-theme /home/erk/.vscode-oss/extensions/zhuangtongfa.material-theme-3.13.20
+[2022-05-06 21:39:22.511] [sharedprocess] [info] Deleted from disk teamhub.teamhub /home/erk/.vscode-oss/extensions/teamhub.teamhub-15.0.5
+[2022-05-06 21:39:22.552] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/erk/.vscode-oss/extensions/ms-toolsai.jupyter-2022.3.1000752054
+[2022-05-06 21:39:22.682] [sharedprocess] [info] Deleted from disk ms-python.python /home/erk/.vscode-oss/extensions/ms-python.python-2022.2.1924087327
+[2022-05-06 21:39:29.934] [sharedprocess] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-05-06 21:39:31.555] [sharedprocess] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-05-06 21:39:33.378] [sharedprocess] [info] Downloaded extension: ms-vscode.js-debug-companion /home/erk/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.18
+[2022-05-06 21:39:33.418] [sharedprocess] [info] Extracted extension to /home/erk/.vscode-oss/extensions/.9d7242c3-b9b9-456a-9c7b-cc53fa26e6d7: ms-vscode.js-debug-companion
+[2022-05-06 21:39:33.424] [sharedprocess] [info] Renamed to /home/erk/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.18
+[2022-05-06 21:39:33.426] [sharedprocess] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-05-06 21:39:33.432] [sharedprocess] [info] Extension installed successfully: ms-vscode.js-debug-companion
+[2022-05-06 23:43:23.890] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-05-07 00:40:04.880] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

@@ -1,0 +1,20 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_newConfig.upd:spectacle-new-config,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[General]
+rememberLastRectangularRegion=2
+
+[GuiConfig]
+captureDelay=1
+captureMode=5
+window-position=429,0
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Screenshot_20211113_212310.png,file:$HOME/Documents/time table.png,file:$HOME/Documents/Workout routine.png,file:$HOME/Documents/july laptop repayment.png,file:$HOME/Pictures/iot camp/Screenshot_20220710_131045.png,file:$HOME/Pictures/iot camp/Screenshot_20220710_130732.png,file:$HOME/Pictures/iot camp/Screenshot_20220710_125028.png,file:$HOME/Pictures/iot camp/Screenshot_20220710_124447.png,file:$HOME/Pictures/iot camp/Screenshot_20220710_123806.png,file:$HOME/Pictures/iot camp/Screenshot_20220710_123747.png,file:$HOME/Pictures/iot camp/Screenshot_20220710_121247.png,file:$HOME/Pictures/iot camp/Screenshot_20220710_120228.png,file:$HOME/Pictures/iot camp/Screenshot_20220710_120205.png,file:$HOME/Pictures/iot camp/influx josiah.png,file:$HOME/Pictures/iot camp/influx.png,file:$HOME/Pictures/iot camp/meet influx.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Documents/,file:$HOME/WorkSpace/extra work/,file:$HOME/Pictures/iot camp/,file:$HOME/Pictures/xmonad/,file:$HOME/Pictures/fitness/,file:$HOME/Pictures/college/
+detailViewIconSize=16
+iconViewIconSize=64
+
+[Save]
+lastSaveAsLocation=file:///home/erk/Documents/time table.png
+lastSaveLocation=file:///home/erk/Documents/time table.png

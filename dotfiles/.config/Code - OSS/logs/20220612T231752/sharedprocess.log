@@ -1,0 +1,17 @@
+[2022-06-12 23:17:56.910] [sharedprocess] [info] Starting worker process with pid 9684 (type: fileWatcher, window: 1).
+[2022-06-12 23:18:01.302] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-06-12 23:18:01.303] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-06-12 23:18:01.305] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-06-12 23:18:01.306] [sharedprocess] [info] Getting Manifest... teamhub.teamhub
+[2022-06-12 23:18:01.308] [sharedprocess] [info] Getting Manifest... zhuangtongfa.material-theme
+[2022-06-12 23:18:03.844] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2022-06-12 23:18:04.039] [sharedprocess] [info] Installing extension: teamhub.teamhub
+[2022-06-12 23:18:04.246] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-06-12 23:18:04.473] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-06-12 23:18:05.741] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /home/erk/.config/Code - OSS/CachedExtensionVSIXs/zhuangtongfa.material-theme-3.14.3
+[2022-06-12 23:18:05.897] [sharedprocess] [info] Extracted extension to /home/erk/.vscode-oss/extensions/.4fc74b49-02cc-48d0-8fba-8e302b0c3796: zhuangtongfa.material-theme
+[2022-06-12 23:18:05.907] [sharedprocess] [info] Renamed to /home/erk/.vscode-oss/extensions/zhuangtongfa.material-theme-3.14.3
+[2022-06-12 23:18:05.910] [sharedprocess] [info] Extracting completed. zhuangtongfa.material-theme
+[2022-06-12 23:18:05.916] [sharedprocess] [info] Extension installed successfully: zhuangtongfa.material-theme
+[2022-06-12 23:18:07.628] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-06-12 23:18:09.531] [sharedprocess] [info] Downloaded extension: teamhub.teamhub /home/erk/.config/Code - OSS/CachedExtensionVSIXs/teamhub.teamhub-15.0.8

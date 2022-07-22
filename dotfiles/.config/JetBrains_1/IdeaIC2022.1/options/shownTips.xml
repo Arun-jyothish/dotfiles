@@ -1,0 +1,21 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="AltInsertInEditor.html" value="1651566016085" />
+        <entry key="Close_all_editor_tabs.html" value="1645090450376" />
+        <entry key="CodeCompletionInSearch.html" value="1651566062242" />
+        <entry key="ColumnSelection.html" value="1644728888076" />
+        <entry key="DotEtcInLookups.html" value="1653503677862" />
+        <entry key="FocusProjectToolWindow.html" value="1653409173848" />
+        <entry key="GoToImplementation.html" value="1651566080665" />
+        <entry key="GotoLineInFile.html" value="1652285870433" />
+        <entry key="Kotlin_mix.html" value="1651820896544" />
+        <entry key="MoveUpDown.html" value="1651911806792" />
+        <entry key="Multicursor.html" value="1638043956734" />
+        <entry key="SearchEverywhere.html" value="1651428962516" />
+        <entry key="jump_to_colors_fonts.html" value="1653409182475" />
+      </map>
+    </option>
+  </component>
+</application>

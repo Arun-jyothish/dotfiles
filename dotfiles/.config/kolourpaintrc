@@ -1,0 +1,42 @@
+[General Settings]
+First Time=false
+Last Document Size=1834,808
+Open Images in the Same Window=false
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAQAAAAMAAAcwAAAAbPwBAAAAAfsAAAASAEMAbwBsAG8AcgAgAEIAbwB4AQAAAFAAAAcwAAACEgEAAAMAAAcwAAADQAAAAAQAAAAEAAAAAQAAAAL8AAAAAgAAAAAAAAABAAAAEABUAG8AbwBsACAAQgBvAHgDAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAdABlAHgAdABUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition 1920x1080=977
+eDP-1 YPosition 1920x1080=44
+
+[MainWindow][Toolbar Tool Box]
+ToolButtonStyle=IconOnly
+
+[Recent Files]
+File1[$e]=$HOME/.local/share/wallpapers/Sweet-Wallpapers/source.svg
+File2[$e]=$HOME/.local/share/icons/Fluent/scalable@2x/apps/AdobeFlash.svg
+File3[$e]=$HOME/Downloads/favicon.ico
+Name1[$e]=source.svg
+Name2[$e]=AdobeFlash.svg
+Name3[$e]=favicon.ico
+
+[Tool Settings]
+Last Used Tool=7
+Tool Widget Brush Col=0
+Tool Widget Brush Row=0
+Tool Widget Eraser Size Col=0
+Tool Widget Eraser Size Row=1
+Tool Widget Fill Style Col=0
+Tool Widget Fill Style Row=0
+Tool Widget Line Width Col=0
+Tool Widget Line Width Row=0
+Tool Widget Opaque/Transparent Col=0
+Tool Widget Opaque/Transparent Row=0
+Tool Widget Spraycan Size Col=0
+Tool Widget Spraycan Size Row=0
+
+[Undo/Redo Settings]
+Max Limit=500
+Max Limit Size Limit=16777216
+Min Limit=10

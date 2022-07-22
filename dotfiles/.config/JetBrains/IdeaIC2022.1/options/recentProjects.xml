@@ -1,0 +1,97 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/WorkSpace/code/Random_Word">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Random_Word – main.py" projectWorkspaceId="28ZhEJ3soM28T8PCRHGuNOQIGYO">
+              <option name="activationTimestamp" value="1654757730556" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5591.52" />
+              <option name="buildTimestamp" value="1652209000422" />
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1654661803578" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/arduino_serial_plot">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="2ANUqmiQ2hGm7FmxB24Qcnh3tWn">
+              <option name="activationTimestamp" value="1654885313797" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5591.52" />
+              <option name="buildTimestamp" value="1652209019224" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1654850004682" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/intro-arun-jyothish">
+          <value>
+            <RecentProjectMetaInfo frameTitle="intro-arun-jyothish" projectWorkspaceId="2ASs7eMuV5lL7h7UEtkVWjnEtiq">
+              <option name="activationTimestamp" value="1655016232313" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5591.52" />
+              <option name="buildTimestamp" value="1652209002758" />
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1655014156274" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WorkSpace/code/web-x">
+          <value>
+            <RecentProjectMetaInfo frameTitle="web-x – ~/.config/JetBrains/IdeaIC2022.1/scratches/index.html" projectWorkspaceId="2B9m3qfoVNpuIUX9Se3mg9qjn79">
+              <option name="activationTimestamp" value="1656658149485" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5591.52" />
+              <option name="buildTimestamp" value="1652209001830" />
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1656326707760" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WorkSpace/kicad/ioit/rky">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rky – iot board render 1.png" projectWorkspaceId="2C6iWRI4He0vd3FlmDFsoVs8fip">
+              <option name="activationTimestamp" value="1658129709615" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5591.52" />
+              <option name="buildTimestamp" value="1652209015298" />
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1658129467006" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo frameTitle="README.md – ~/WorkSpace/code/uv_pulse-oxi/README.md" opened="true" projectWorkspaceId="252czEfn002Gzco5F5KCC2qwNGK">
+              <option name="activationTimestamp" value="1658130450152" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5591.52" />
+              <option name="buildTimestamp" value="1652209015298" />
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1658129710354" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WorkSpace/kicad/ioit">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2C6j18PqcaD2YqGpGaA8qW2BTsP">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5591.52" />
+              <option name="buildTimestamp" value="1652209015298" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1658129710354" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

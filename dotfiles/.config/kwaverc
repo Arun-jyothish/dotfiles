@@ -1,0 +1,21 @@
+[MainWindow]
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABQAAAAJfAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAIAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABGAGkAbABlAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABFAGQAaQB0AQAAALb/////AAAAAAAAAAAAAAACAAAAAgAAADQATQBhAGkAbgBXAGkAZABnAGUAdAAgAFIAZQBjAG8AcgBkAC8AUABsAGEAeQBiAGEAYwBrAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABaAG8AbwBtAQAAAZj/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1 XPosition 1920x1080=320
+eDP-1 YPosition 1920x1080=175
+toolbars=3
+
+[MainWindow][Toolbar MainWidget Edit]
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget File]
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Record/Playback]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Zoom]
+IconSize=32
+ToolButtonStyle=IconOnly

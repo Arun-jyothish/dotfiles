@@ -1,0 +1,13 @@
+[1]
+Page=2
+Url=file:///home/erk/WorkSpace/kicad/PORTABLE_ECG_MACHINE/lcds___displays_schem I2C.png
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Gwenview::MainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+eDP-1 Window-Maximized 1920x1080=true

@@ -1,0 +1,204 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="252czEfn002Gzco5F5KCC2qwNGK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28ZhEJ3soM28T8PCRHGuNOQIGYO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28eMIdaZ5mKasFSEprNa8r0oloi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28mUTlh7MvneYdtZW3BQ57bxDCU">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="291r70oUPnmEelJ7AP3NcQ76gbv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29cRyoIYUWVFfom9RyDali54Lsq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 18.0.1.1" />
+        <option name="installDir" value="$USER_HOME$/.jdks/openjdk-18.0.1.1" />
+        <option name="javaHomeDir" value="$USER_HOME$/.jdks/openjdk-18.0.1.1" />
+        <option name="sha256" value="4f81af7203fa4c8a12c9c53c94304aab69ea1551bc6119189c9883f4266a2b24" />
+        <option name="url" value="https://download.java.net/java/GA/jdk18.0.1.1/65ae32619e2f40f3a9af3af1851d6e19/2/GPL/openjdk-18.0.1.1_linux-x64_bin.tar.gz" />
+        <option name="versionText" value="18.0.1.1" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+    <languageToProjectMap>
+      <entry key="JAVA" value="$USER_HOME$/.cache/JetBrains/IdeaIC2022.1/demo/IdeaLearningProject" />
+    </languageToProjectMap>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Noto Sans Medium" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="21W5LekrVCNcYkvdd47SW65nK78">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="252czEfn002Gzco5F5KCC2qwNGK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewKotlinWizard.buildSystem.type" value="GradleKotlinDsl" />
+    <property name="NewKotlinWizard.structure.groupId" value="me.erk" />
+    <property name="NextRunPlatformUpdateBuild" value="IC-212.5712.43/2021.2.4" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.2.4" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="SettingsSearchHistory" value="/.sp" />
+    <property name="appcds.runOnSecondStart" value="IC-212.5457.46-aec66c6d28741e63c64448414273532022326e44029372dff2993487171b8375" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$" />
+    <property name="file.gist.reindex.count" value="14" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.fileTypes.profiler.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IC-212.5457.46" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="212-1.5.10-release-IJ5457.46" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1644728881998" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Empty Project" />
+    <property name="registry.to.advanced.settings.migration.build" value="IC-212.5457.46" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "false",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "false",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "CWM_LOGGING_VERSION": "1",
+    "ExpandBeforeRunStepsPanel": "true",
+    "InstalledPluginsSearchHistory": "file type\nfile typ\nfile\nfi\nmark",
+    "LayoutCode.codeCleanup": "true",
+    "LayoutCode.optimizeImports": "true",
+    "MarketplacePluginsSearchHistory": "mermaid\nmermai\nmerma\nmerm\nmer",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "file type\nm\nmarkdown navigator\nchoose runtime\nruntime",
+    "appcds.runOnSecondStart": "IC-221.5591.52-3f9aa8397991eafd8005afa9607bd1712adaef3fcb0d1b09cba1ac38cb00282a",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-221.5591.52",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.jetbrains.python.newProject.NewEnvironmentStep.selectedStep": "Virtualenv",
+    "com.jetbrains.python.newProject.PythonSdkStep.selectedStep": "New",
+    "debugger.smart.chooser.counter": "1",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "38",
+    "fileTypeChangedCounter": "9",
+    "got.it.tooltip.builtin.web.server.reload.on.save": "1",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "IC-221.5591.52",
+    "ide.updates.whats.new.shown.for": "221",
+    "ideavim.statistics.timestamp": "1653506240225",
+    "ift.learning.panel.opened.in": "221.5591.52",
+    "ignoreUltimateEdition": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "221-1.6.21-release-337-IJ5591.52",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/run/media/erk/Shared Partition/.jbr/jbr_jcef-11_0_10-windows-x64-b1341.45",
+    "mt.autoReset": "true",
+    "mt.showInstallAtom": "true",
+    "mt.showStatisticsAgreement": "true",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "org.jetbrains.plugins.groovy.config.wizard.GroovyNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "project.wizard.group": "newWizard.com.intellij.ide.wizard.NewProjectBuilder",
+    "registry.to.advanced.settings.migration.build": "IC-221.5591.52",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/run/media/erk/Shared Partition/.jbr/jbr_jcef-11_0_10-windows-x64-b1341.45",
+      "/home/erk/jdk-18.0.1.1",
+      "/home/erk/Downloads/jdk-18.0.1.1",
+      "/home/erk/WorkSpace/code/Portable-ECG/README.md",
+      "/home/erk/WorkSpace/code",
+      "/home/erk/WorkSpace/code/Random_Word/venv/bin/python",
+      "/home/erk/WorkSpace/code/Random_Word"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Portable-ECG-history" project-path="$USER_HOME$/WorkSpace/code/Portable-ECG" last-access-time="1652285866444" />
+      <command-history-file filename="Portable-ECG-history1" project-path="$USER_HOME$/WorkSpace/code/Portable-ECG" last-access-time="1652285866468" />
+      <command-history-file filename="Random_Word-history" project-path="$USER_HOME$/WorkSpace/code/Random_Word" last-access-time="1651478744761" />
+    </command-history-files>
+  </component>
+</application>

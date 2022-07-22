@@ -1,0 +1,170 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="252czEfn002Gzco5F5KCC2qwNGK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28ZhEJ3soM28T8PCRHGuNOQIGYO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28eMIdaZ5mKasFSEprNa8r0oloi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29fWlcbWNmOg2kHB6I5hZdG2jrq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29fWwzmVDRnqRVAeyKJK7mgpz6q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29fYzZVpLjBS6C1abhXj5vOX7FI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29fagKz0jALmoMCkFwK5KEwvZ6o">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29fcJ4fK2DOoxfV2YZErmT11m2v">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29hKKYrTxN2kEpaqwnsXp4XYVl5">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2AHLweHsFvF8QOorURZel6vIUOn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ANUqmiQ2hGm7FmxB24Qcnh3tWn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ASs7eMuV5lL7h7UEtkVWjnEtiq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2B9m3qfoVNpuIUX9Se3mg9qjn79">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2C6iWRI4He0vd3FlmDFsoVs8fip">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2C6j18PqcaD2YqGpGaA8qW2BTsP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+    <languageToProjectMap>
+      <entry key="JAVA" value="$USER_HOME$/.cache/JetBrains/IdeaIC2022.1/demo/IdeaLearningProject" />
+    </languageToProjectMap>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Montreal" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="12.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "FontPreviewText": "IntelliJ IDEA is an <bold>Integrated \nDevelopment Environment (IDE)</bold> designed\nto maximize productivity. It provides\n<bold>clever code completion, static code\nanalysis, and refactorings,</bold> and lets\nyou focus on the bright side of\nsoftware development making\nit an enjoyable experience.\n\nDefault:\nabcdefghijklmnopqrstuvwxyz\nABCDEFGHIJKLMNOPQRSTUVWXYZ\n 0123456789 (){}[]\n +-*/= .,;:!? #&$%@|^\n\n<bold>Bold:\nabcdefghijklmnopqrstuvwxyz\nABCDEFGHIJKLMNOPQRSTUVWXYZ\n 0123456789 (){}[]\n +-*/= .,;:!? #&$%@|^</bold>\n\n<!-- -- != := === >= >- >=> |-> -> <$>\n</> #[ |||> |= ~@\n\nhelllo world",
+    "InstalledPluginsSearchHistory": "arduino\nardui\nar\nmarkdown\nmarkd",
+    "LayoutCode.optimizeImports": "false",
+    "LayoutCode.processChangedText": "false",
+    "LayoutCode.rearrangeEntriesHTML": "false",
+    "LayoutCode.rearrangeEntriesMarkdown": "false",
+    "LayoutCode.rearrangeEntriesPython": "false",
+    "Markdown Split EditorLayout": "Editor and Preview",
+    "MarketplacePluginsSearchHistory": "arduino\narduio\nc\ngcc\nard",
+    "NextRunPlatformUpdateBuild": "IC-221.5921.22/2022.1.3",
+    "NextRunPlatformUpdateVersion": "2022.1.3",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "font\ntext wrap",
+    "appcds.runOnSecondStart": "IC-221.5591.52-59f4e43c79fe0561c1e8e9aa4bb2a434915c12acd7fa95e49ebeaaad91ce62ed",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-221.5591.52",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "HTML",
+    "com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.splitter": "0.34",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "132",
+    "fileTypeChangedCounter": "1",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
+    "gotit.previous.run": "IC-221.5591.52",
+    "ide.memory.adjusted": "true",
+    "ide.updates.whats.new.shown.for": "221",
+    "ideavim.statistics.timestamp": "1658129715040",
+    "ift.learning.panel.opened.in": "221.5591.52",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "221-1.6.21-release-337-IJ5591.52",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "/home/erk/WorkSpace/code/web-x",
+    "mt.autoReset": "true",
+    "mt.showStatisticsAgreement": "true",
+    "project.wizard.group": "newWizard.com.intellij.ide.wizard.NewProjectBuilder",
+    "python.packaging.author": "erk",
+    "registry.to.advanced.settings.migration.build": "IC-221.5591.52",
+    "selected.color.option.type": "FOLDED_TEXT_ATTRIBUTES",
+    "settings.code.style.selected.tab.Markdown": "Wrapping and Braces",
+    "settings.code.style.selected.tab.XML": "Other",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/erk/WorkSpace/kicad/ioit",
+      "/home/erk/WorkSpace/kicad/ioit/rky",
+      "/home/erk/rough/timetable/scratch.md",
+      "/home/erk/scratch.md",
+      "/home/erk/WorkSpace/code/Random_Word",
+      "/home/erk/WorkSpace/code/main.py",
+      "/home/erk/WorkSpace/code/web-x",
+      "/home/erk/WorkSpace/kicad/PORTABLE_ECG_MACHINE/README.md"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Random_Word-history1" project-path="$USER_HOME$/WorkSpace/code/Random_Word" last-access-time="1654497093629" />
+      <command-history-file filename="web-x-history" project-path="$USER_HOME$/WorkSpace/code/web-x" last-access-time="1656656738580" />
+    </command-history-files>
+  </component>
+</application>

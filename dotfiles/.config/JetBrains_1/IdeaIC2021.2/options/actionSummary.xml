@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="NewModule">
+      <i c="1" l="1644728976198" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1644728957994" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1644729553397" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1644728840961" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.ModuleStructureConfigurable$AddModuleAction">
+      <i c="1" l="1644728914263" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="2" l="1645090591308" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="1" l="1644728909544" />
+    </e>
+  </component>
+</application>

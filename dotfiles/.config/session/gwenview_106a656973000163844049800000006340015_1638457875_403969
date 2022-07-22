@@ -1,0 +1,16 @@
+[1]
+Page=2
+Url=file:///home/erk/Pictures/emacs error.png
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Gwenview::MainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+eDP-1 Height 1920x1080=1044
+eDP-1 Width 1920x1080=1920
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition 1920x1080=36

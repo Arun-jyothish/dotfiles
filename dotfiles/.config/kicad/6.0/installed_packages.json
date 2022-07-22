@@ -1,0 +1,223 @@
+{
+    "packages": [
+        {
+            "current_version": "0.1.2",
+            "install_timestamp": 1650642093,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://www.pcbway.com"
+                    },
+                    "name": "PCBWay.com"
+                },
+                "description": "Start prototype and assembly by sending files to PCBWay with just one click.",
+                "description_full": "Click this plugin for high quality prototyping and assembly services, PCBWay will commit to meeting your needs to the greatest extent.\n\nWhen you click PCBWay Plug-in button, we will export these files in your project:\n\n1. Gerber files in correct format for production\n2. IPC-Netlist file\n3. Bom-file that includes all information of components (please note designator, quantity, MPN/part number, package/footprint are necessary)\n4. Pick and Place-file used in assembly\n\nYou can click \"Save to Cart\" to place an order immediately after uploading the files ( usually only takes a few seconds), our engineers will double check the files before the production.\n\nAbout PCBWay:\n\nPCBWay is a Chinese company specializing in PCB prototyping and assembly, devotes to offer one-stop service. The build-time for standard PCBs is 24hrs. Our upgraded material with TG150-160 costs as low as $5/10pcs while our remarkable after-sale services are standing by for any questions you may encounter. As a sponsor of KiCad, we will always support its development.",
+                "identifier": "com.github.pcbway.PCBWay-Plug-in-for-Kicad",
+                "license": "MIT",
+                "maintainer": {
+                    "contact": {
+                        "web": "https://www.pcbway.com"
+                    },
+                    "name": "PCBWay.com"
+                },
+                "name": "PCBWay Plug-in for KiCad",
+                "resources": {
+                    "homepage": "https://github.com/pcbway/PCBWay-Plug-in-for-Kicad"
+                },
+                "type": "plugin",
+                "versions": [
+                    {
+                        "download_sha256": "e5ebcab1c7c4a9ee8dd1a453456cfe8b3fea618e5d0452cfc6b65a19b6b48144",
+                        "download_size": 10124,
+                        "download_url": "https://github.com/pcbway/PCBWay-Plug-in-for-Kicad/releases/download/0.1.2/KiCadToPCBWay_v0.1.2.zip",
+                        "install_size": 15334,
+                        "kicad_version": "6.00",
+                        "status": "testing",
+                        "version": "0.1.2"
+                    }
+                ]
+            },
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "1.1",
+            "install_timestamp": 1650633118,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://github.com/DX-MON"
+                    },
+                    "name": "Rachel Mant"
+                },
+                "description": "Eagle CAD inspired color theme",
+                "description_full": "Eagle CAD inspired color theme",
+                "identifier": "com.github.pointhi.kicad-color-schemes.eagle-dark",
+                "license": "CC0-1.0",
+                "maintainer": {
+                    "contact": {
+                        "web": "https://github.com/pointhi/kicad-color-schemes/"
+                    },
+                    "name": "Thomas Pointhuber"
+                },
+                "name": "Eagle Dark Theme",
+                "resources": {
+                    "Github": "https://github.com/pointhi/kicad-color-schemes"
+                },
+                "type": "colortheme",
+                "versions": [
+                    {
+                        "download_sha256": "d862b897c8981c17cfc2f77839c82db25bdf8a9a25561e4b38c5a00bbee29ed1",
+                        "download_size": 6429,
+                        "download_url": "https://github.com/pointhi/kicad-color-schemes/releases/download/2021-12-05/com.github.pointhi.kicad-color-schemes.eagle-dark_v1.1_pcm.zip",
+                        "install_size": 10196,
+                        "kicad_version": "5.99",
+                        "status": "stable",
+                        "version": "1.1"
+                    }
+                ]
+            },
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "1.1",
+            "install_timestamp": 1654100631,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://github.com/jordiorlando"
+                    },
+                    "name": "Jordi Pakey-Rodriguez"
+                },
+                "description": "Designed by @0xdec",
+                "description_full": "Designed by @0xdec.",
+                "identifier": "com.github.pointhi.kicad-color-schemes.nord",
+                "license": "CC0-1.0",
+                "maintainer": {
+                    "contact": {
+                        "web": "https://github.com/pointhi/kicad-color-schemes/"
+                    },
+                    "name": "Thomas Pointhuber"
+                },
+                "name": "Nord Theme",
+                "resources": {
+                    "Github": "https://github.com/pointhi/kicad-color-schemes"
+                },
+                "type": "colortheme",
+                "versions": [
+                    {
+                        "download_sha256": "3d8d949e366e33c73d53e199d62aeafecd58c497e2a15d4b972fda8a18a03a11",
+                        "download_size": 6733,
+                        "download_url": "https://github.com/pointhi/kicad-color-schemes/releases/download/2021-12-05/com.github.pointhi.kicad-color-schemes.nord_v1.1_pcm.zip",
+                        "install_size": 10342,
+                        "kicad_version": "5.99",
+                        "status": "stable",
+                        "version": "1.1"
+                    }
+                ]
+            },
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "1.2",
+            "install_timestamp": 1654100629,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://github.com/pointhi/kicad-color-schemes/"
+                    },
+                    "name": "Thomas Pointhuber"
+                },
+                "description": "Based on Solarized colorscheme from Ethan Schoonover",
+                "description_full": "Based on Solarized colorscheme from Ethan Schoonover.\nSee https://ethanschoonover.com/solarized/ for more details.",
+                "identifier": "com.github.pointhi.kicad-color-schemes.solarized-dark",
+                "license": "CC0-1.0",
+                "maintainer": {
+                    "contact": {
+                        "web": "https://github.com/pointhi/kicad-color-schemes/"
+                    },
+                    "name": "Thomas Pointhuber"
+                },
+                "name": "Solarized Dark Theme",
+                "resources": {
+                    "Github": "https://github.com/pointhi/kicad-color-schemes"
+                },
+                "type": "colortheme",
+                "versions": [
+                    {
+                        "download_sha256": "7870a3560e9ba112b3bad342d457730bc9c65e787af87d0c55f6fad544a0532c",
+                        "download_size": 4395,
+                        "download_url": "https://github.com/pointhi/kicad-color-schemes/releases/download/2021-12-05/com.github.pointhi.kicad-color-schemes.solarized-dark_v1.2_pcm.zip",
+                        "install_size": 5691,
+                        "kicad_version": "5.99",
+                        "status": "stable",
+                        "version": "1.2"
+                    }
+                ]
+            },
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "0.5",
+            "install_timestamp": 1650633059,
+            "package": {
+                "author": {
+                    "contact": {
+                        "support": "https://forum.kicad.info/t/32269"
+                    },
+                    "name": "Albin Dennevi"
+                },
+                "description": "Export a customized pdf of the board",
+                "description_full": "Each enabled template will result in a page in the pdf file that's created by this plugin. You can enable any number of templates to get different views and color modes of the pcb. Each template can be individually configured to give the desired output. It's completely up to you which layers to show, and which colors the layers shall have.",
+                "identifier": "com.gitlab.dennevi.Board2Pdf",
+                "license": "Unlicense",
+                "name": "Board2Pdf",
+                "resources": {
+                    "Gitlab": "https://gitlab.com/dennevi/Board2Pdf",
+                    "Readme": "https://gitlab.com/dennevi/Board2Pdf/-/blob/main/README.md"
+                },
+                "tags": [
+                    "pcbnew",
+                    "assembly",
+                    "documentation"
+                ],
+                "type": "plugin",
+                "versions": [
+                    {
+                        "download_sha256": "35f94cdd7bc024d7850c92a1686540be27c7cb519af6c1d10c25d0577037f5fe",
+                        "download_size": 93264,
+                        "download_url": "https://gitlab.com/dennevi/kicad-plugins-releases/-/raw/main/Board2Pdf/releases/Board2Pdf_v0.5.zip",
+                        "install_size": 591748,
+                        "kicad_version": "6.0",
+                        "platforms": [
+                            "linux",
+                            "macos",
+                            "windows"
+                        ],
+                        "status": "testing",
+                        "version": "0.5"
+                    },
+                    {
+                        "download_sha256": "1c7ac7a0bb1af756659d3b01de176c30402941e138d6d3990927a851d47c7660",
+                        "download_size": 91552,
+                        "download_url": "https://gitlab.com/dennevi/kicad-plugins-releases/-/raw/main/Board2Pdf/releases/Board2Pdf_v0.2.zip",
+                        "install_size": 580459,
+                        "kicad_version": "6.0",
+                        "platforms": [
+                            "linux",
+                            "macos",
+                            "windows"
+                        ],
+                        "status": "testing",
+                        "version": "0.2"
+                    }
+                ]
+            },
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        }
+    ]
+}

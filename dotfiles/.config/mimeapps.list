@@ -1,0 +1,25 @@
+[Added Associations]
+application/x-step=freecad.desktop;
+inode/directory=org.kde.dolphin.desktop;
+video/mp4=vlc.desktop;
+video/webm=vlc.desktop;org.kde.dragonplayer.desktop;org.shotcut.Shotcut.desktop;
+video/x-matroska=vlc.desktop;org.kde.dragonplayer.desktop;org.shotcut.Shotcut.desktop;
+x-scheme-handler/http=firefox.desktop;kfmclient_html.desktop;
+x-scheme-handler/https=firefox.desktop;kfmclient_html.desktop;
+x-scheme-handler/mailto=org.kde.kmail2.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-VQS4B1.desktop;
+
+[Default Applications]
+application/x-step=freecad.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/x-markdown=open-jb-idea.desktop
+video/mp4=vlc.desktop;
+video/webm=vlc.desktop;
+video/x-matroska=vlc.desktop;
+x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_home_erk_st_stm32cubeide_1.9.0_.desktop
+x-scheme-handler/etcher=balena-etcher-electron.desktop
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/mailto=org.kde.kmail2.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-VQS4B1.desktop
+text/x-processing=processing-pde.desktop

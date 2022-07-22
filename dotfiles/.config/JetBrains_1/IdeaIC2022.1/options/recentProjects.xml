@@ -1,0 +1,86 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled" projectWorkspaceId="21W5LekrVCNcYkvdd47SW65nK78">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-212.5457.46" />
+              <option name="buildTimestamp" value="1634044964886" />
+              <frame x="260" y="40" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1638043951312" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test – ~/WorkSpace/code/Random_Word/main.py" projectWorkspaceId="252czEfn002Gzco5F5KCC2qwNGK">
+              <option name="activationTimestamp" value="1651429658489" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-212.5457.46" />
+              <option name="buildTimestamp" value="1634044922915" />
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1644728882634" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WorkSpace/code/Random_Word">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Random_Word – main.py" projectWorkspaceId="28ZhEJ3soM28T8PCRHGuNOQIGYO">
+              <option name="activationTimestamp" value="1651572214715" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5080.210" />
+              <option name="buildTimestamp" value="1649784400544" />
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1651429902073" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WorkSpace/code/web-x">
+          <value>
+            <RecentProjectMetaInfo frameTitle="web-x – main.js" projectWorkspaceId="28eMIdaZ5mKasFSEprNa8r0oloi">
+              <option name="activationTimestamp" value="1651856405421" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5080.210" />
+              <option name="buildTimestamp" value="1649784393508" />
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1651854239048" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WorkSpace/code/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – hello.md" projectWorkspaceId="29cRyoIYUWVFfom9RyDali54Lsq">
+              <option name="activationTimestamp" value="1653413391884" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5591.52" />
+              <option name="buildTimestamp" value="1652302181221" />
+              <frame x="332" y="8" width="1272" height="706" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1653410646475" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WorkSpace/code/Portable-ECG">
+          <value>
+            <RecentProjectMetaInfo frameTitle="README.md – README.md" opened="true" projectWorkspaceId="28mUTlh7MvneYdtZW3BQ57bxDCU">
+              <option name="activationTimestamp" value="1653506277042" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5591.52" />
+              <option name="buildTimestamp" value="1652302181221" />
+              <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1653413395623" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/WorkSpace/code" />
+  </component>
+</application>

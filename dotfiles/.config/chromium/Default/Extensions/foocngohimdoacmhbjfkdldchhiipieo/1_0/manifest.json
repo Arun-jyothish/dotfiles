@@ -1,0 +1,32 @@
+{
+   "description": "Bits + Pieces: By Laci Jordan",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjT1YekjcFDRx4I97l8o+EAa+QBnkQQST/Z/QETDbgvsjA1YpPU82nDxBnCF231pBw4lLq4/V5jLfJbNKmoMHvLFbrAYhGfDnauGQVPGz4EkZKEPgx1AVWstu0dNVEX4QpEUQGCKLxeNxKY2Q5q6HoRwv+4pvtFko3nQUvSlbG61cZ7YwHb3Pmg2Gj/wPbi9cgCf1asaHp/4RgEaN+ncHVfS33AKDmpME/ouH9f1avhS3IbpbMMHi6OVUk8Zho/xmbrxAGQzYB3nR4J/x5ItifUpdHZJdYzrRntWGevK/ht8t/duQT7lwTv3ays/8N3Fr9w+eVp5E9GwCTLETfumdIQIDAQAB",
+   "manifest_version": 2,
+   "name": "Bits + Pieces",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 3, 3, 3 ],
+         "ntp_background": [ 3, 3, 3 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 54, 54, 54 ]
+      },
+      "images": {
+         "theme_ntp_background": "bits_pieces_1920x1080.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "center",
+         "ntp_background_repeat": "repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ -1, 0.57, 0.9605 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

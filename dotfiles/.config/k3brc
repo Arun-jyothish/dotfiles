@@ -1,0 +1,61 @@
+[External Programs]
+cdrdao user parameters=
+cdrecord user parameters=
+cdrskin default=/usr/bin/cdrskin
+cdrskin last seen newest version=1.5.4
+cdrskin user parameters=
+dvd+rw-format user parameters=
+eMovix user parameters=
+growisofs user parameters=
+mkisofs user parameters=
+normalize user parameters=
+readcd user parameters=
+search path[$e]=/usr/bin/,/usr/local/bin/,/usr/sbin/,/usr/local/sbin/,/sbin
+sox user parameters=
+transcode user parameters=
+vcdxbuild user parameters=
+vcdxminfo user parameters=
+vcdxrip user parameters=
+
+[General Options]
+Allow overburning=false
+Fifo buffer=4
+Force unsafe operations=false
+Last system check version=22.4.1
+Manual buffer size=false
+Navigator breadcrumb mode=true
+No cd eject=false
+Show Document Header=true
+Temp Dir=/home/erk/Videos
+burnfree=true
+check system config=true
+config version=22.4.1
+current theme=quant
+
+[Welcome Widget]
+welcome_actions=file_new_data,file_new_audio,tools_copy_medium
+
+[file view]
+Allow Expansion=false
+Decoration position=2
+Show Inline Previews=true
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+View Style=DetailTree
+last url[$e]=$HOME/
+show bookmarks=false
+
+[image writing]
+recent images[$e]=/run/media/erk/extra/Downloads1/manjaro-kde-21.2.2-minimal-220123-linux510.iso
+
+[main_window_settings]
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=519
+eDP-1 Width 1920x1080=640
+eDP-1 XPosition 1920x1080=640
+eDP-1 YPosition 1920x1080=299

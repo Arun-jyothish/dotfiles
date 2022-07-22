@@ -1,0 +1,173 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="README.md" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WorkSpace/kicad/ioit/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="82" lastUsed="1658129749957" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="10" lastUsed="1654425077107" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/WorkSpace/kicad/PORTABLE_ECG_MACHINE/README.md" />
+      <option value="$PROJECT_DIR$/WorkSpace/kicad/PORTABLE_ECG_MACHINE/src/README.md" />
+      <option value="$PROJECT_DIR$/WorkSpace/code/Waste_categorize/README.md" />
+      <option value="$PROJECT_DIR$/WorkSpace/code/uv_pulse-oxi/README.md" />
+      <option value="$PROJECT_DIR$/WorkSpace/code/cprogramming/README.md" />
+      <option value="$PROJECT_DIR$/WorkSpace/kicad/ioit/README.md" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Bookmarks" order="0" show_stripe_button="false" side_tool="true" weight="0.32994792" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.2502604" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="Serial Monitor" order="10" weight="0.46791187" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="11" weight="0.32998085" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Serial Monitor</value>
+      <value>Structure</value>
+      <value>Bookmarks</value>
+      <value>Sequence Diagram</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="308" width="432" height="504" key="FileChooserDialogImpl" timestamp="1658129464190">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="308" width="432" height="504" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1658129464190" />
+    <state x="354" y="112" width="1032" height="865" key="SettingsEditor" timestamp="1658030150491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="354" y="112" width="1032" height="865" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1658030150491" />
+    <state x="693" y="248" width="532" height="604" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1658130001893">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="248" width="532" height="604" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1658130001893" />
+    <state x="560" y="153" width="800" height="794" key="new project wizard" timestamp="1655014154070">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="153" width="800" height="794" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1655014154070" />
+    <state x="623" y="236" width="672" height="701" key="search.everywhere.popup" timestamp="1653761050924">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="236" width="672" height="701" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1653761050924" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkSpace/kicad/PORTABLE_ECG_MACHINE/PORTABLE_ECG_MACHINE/PORTABLE_ECG_MACHINE.kicad_pro" />
+    <entry file="file://$PROJECT_DIR$/WorkSpace/kicad/PORTABLE_ECG_MACHINE/PORTABLE_ECG_MACHINE/PORTABLE_ECG_MACHINE.csv" />
+    <entry file="file://$PROJECT_DIR$/rough/python-mini-projects/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkSpace/code/cprogramming/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkSpace/kicad/PORTABLE_ECG_MACHINE/src/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkSpace/code/Waste_categorize/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkSpace/code/uv_pulse-oxi/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkSpace/kicad/PORTABLE_ECG_MACHINE/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkSpace/kicad/ioit/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

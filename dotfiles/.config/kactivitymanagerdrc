@@ -1,0 +1,10 @@
+[activities]
+558295e7-244d-42cd-b301-447a70bba0fb=erk
+b882a2c8-4fa5-4a4c-9c60-aeb27dee5559=erk2
+
+[activities-icons]
+558295e7-244d-42cd-b301-447a70bba0fb=amarok-icon
+b882a2c8-4fa5-4a4c-9c60-aeb27dee5559=4kvideodownloader
+
+[main]
+currentActivity=558295e7-244d-42cd-b301-447a70bba0fb

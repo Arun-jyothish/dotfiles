@@ -1,0 +1,299 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/main.py" />
+              <entry key="line" value="18" />
+            </attributes>
+            <option name="description" value="" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+            <option name="type" value="LETTER_B" />
+          </BookmarkState>
+        </option>
+        <option name="default" value="true" />
+        <option name="name" value="IdeaVim" />
+      </GroupState>
+      <GroupState>
+        <option name="name" value="Random_Word" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/main.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/setup.py">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/main.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="65">
+                  <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="HTML">
+      <summary usageCount="3" lastUsed="1654520929220" />
+    </fileType>
+    <fileType name="JSHELL">
+      <summary usageCount="1" lastUsed="1654489731560" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="10" lastUsed="1654539825072" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="3" lastUsed="1654520929741" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="23" lastUsed="1654757613145" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/algorithm.md" />
+      <option value="$PROJECT_DIR$/ls.md" />
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/chess.py" />
+      <option value="$PROJECT_DIR$/scrap.html" />
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" />
+      <option value="$USER_HOME$/scratch.md" />
+      <option value="$USER_HOME$/rough/timetable/scratch.md" />
+      <option value="$PROJECT_DIR$/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Random_Word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Random_Word" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python tests.pytest in erk" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="Random_Word-history1" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_erk - 2022.06.06 at 09h 59m 53s.xml">
+      <configuration name="pytest in erk" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_erk - 2022.06.06 at 15h 22m 16s.xml">
+      <configuration name="pytest in erk" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Commit" weight="0.32994792" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2502604" />
+      <window_info id="Learn" order="2" weight="0.32994792" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="0" weight="0.32998085" />
+      <window_info anchor="bottom" id="Run" order="1" visible="true" weight="0.32998085" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32998085" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.50026625" weight="0.2361111" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49973375" side_tool="true" weight="0.2361111" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Find</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="288" width="432" height="504" key="FileChooserDialogImpl" timestamp="1654661764073">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="744" y="288" width="432" height="504" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1654661764073" />
+    <state width="1878" height="316" key="GridCell.Tab.0.bottom" timestamp="1654497063006">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1654497063006" />
+    <state width="1878" height="316" key="GridCell.Tab.0.center" timestamp="1654497063005">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1654497063005" />
+    <state width="1878" height="316" key="GridCell.Tab.0.left" timestamp="1654497063005">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1654497063005" />
+    <state width="1878" height="316" key="GridCell.Tab.0.right" timestamp="1654497063005">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="316" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1654497063005" />
+    <state x="775" y="31" width="1032" height="865" key="SettingsEditor" timestamp="1654661723579">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="775" y="31" width="1032" height="865" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1654661723579" />
+    <state x="556" y="250" key="Vcs.Push.Dialog.v2" timestamp="1654540801832">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="556" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1654540801832" />
+    <state x="693" y="248" width="532" height="604" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1654491103189">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="248" width="532" height="604" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1654491103189" />
+    <state x="560" y="143" width="800" height="794" key="new project wizard" timestamp="1654520950756">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="143" width="800" height="794" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1654520950756" />
+    <state x="623" y="236" width="672" height="701" key="search.everywhere.popup" timestamp="1654535965468">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="236" width="672" height="701" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1654535965468" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
+    <entry file="file://$PROJECT_DIR$/../../kicad/PORTABLE_ECG_MACHINE/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md" />
+    <entry file="file://$USER_HOME$/scratch.md" />
+    <entry file="file://$USER_HOME$/rough/timetable/scratch.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#noscript#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

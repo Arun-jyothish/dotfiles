@@ -1,0 +1,181 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="IdeaLearningProject" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myColumnSize">
+      <list>
+        <option value="209" />
+        <option value="219" />
+        <option value="221" />
+        <option value="565" />
+      </list>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Welcome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="7" column="4" selection-start-line="6" selection-start-column="33" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="2" lastUsed="1654662156064" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Welcome.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IdeaLearningProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaLearningProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaLearningProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaLearningProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Welcome" executorId="Debug" />
+      <element setting="Application.Welcome" executorId="Coverage" />
+      <element setting="Application.Welcome" executorId="Run" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2502604" />
+      <window_info id="Learn" order="0" visible="true" weight="0.32994792" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998085" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39990422" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" visible="true" weight="0.32998085" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Coverage" order="0" show_stripe_button="false" side_tool="true" weight="0.6330729" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Build</value>
+      <value>Debug</value>
+      <value>Coverage</value>
+      <value>Run</value>
+      <value>Learn</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1654662038667">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="433" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1654662038667" />
+    <state x="692" y="308" width="533" height="482" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1654662010701">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="692" y="308" width="533" height="482" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1654662010701" />
+    <state x="812" y="187" width="292" height="725" key="EnvironmentVariablesDialog" timestamp="1654662026990">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="812" y="187" width="292" height="725" key="EnvironmentVariablesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1654662026990" />
+    <state x="706" y="297" key="FileChooserDialogImpl" timestamp="1654662015273">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="706" y="297" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1654662015273" />
+    <state width="1878" height="389" key="GridCell.Tab.0.bottom" timestamp="1654662405844">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="389" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1654662405844" />
+    <state width="1878" height="389" key="GridCell.Tab.0.center" timestamp="1654662405844">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="389" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1654662405844" />
+    <state width="1878" height="389" key="GridCell.Tab.0.left" timestamp="1654662405844">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="389" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1654662405844" />
+    <state width="1878" height="389" key="GridCell.Tab.0.right" timestamp="1654662405844">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="389" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1654662405844" />
+    <state width="1878" height="389" key="GridCell.Tab.1.bottom" timestamp="1654662405844">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="389" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1654662405844" />
+    <state width="1878" height="389" key="GridCell.Tab.1.center" timestamp="1654662405844">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="389" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1654662405844" />
+    <state width="1878" height="389" key="GridCell.Tab.1.left" timestamp="1654662405844">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="389" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1654662405844" />
+    <state width="1878" height="389" key="GridCell.Tab.1.right" timestamp="1654662405844">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="389" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1654662405844" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/RecentFilesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Welcome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="4" selection-start-line="6" selection-start-column="33" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

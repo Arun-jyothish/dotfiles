@@ -1,0 +1,9 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=SettingsBase
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+eDP-1 Window-Maximized 1920x1080=true

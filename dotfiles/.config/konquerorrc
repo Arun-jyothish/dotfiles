@@ -1,0 +1,26 @@
+[$Version]
+update_info=webenginepart.upd:MoveNonPasswordStorableSites
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+DownloadManager=kget
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPIAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAEo/////wAAAAAAAAAAAAAAAgAAAAMAAAAeAGIAbwBvAGsAbQBhAHIAawBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAWAGgAdABtAGwAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAGgBzAHAAZQBlAGMAaABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+StatusBar=Enabled
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=1044
+eDP-1 Width 1920x1080=1920
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition 1920x1080=36
+
+[SearchBar]
+CompletionMode=5
+CurrentEngine=google
+History list=\\0
+Mode=1
+SuggestionEnabled=true
+
+[Undo]
+Number of Closed Windows=20

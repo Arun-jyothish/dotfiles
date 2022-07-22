@@ -1,0 +1,7 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/qt-gui-tst.py,file:$HOME/qt-gui-tst.py
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[TranslatorWidget]
+mainSplitter=0,0

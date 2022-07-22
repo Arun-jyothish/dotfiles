@@ -1,0 +1,8 @@
+[FileDialogSize]
+eDP-1 Height 1920x1080=662
+eDP-1 Width 1920x1080=980
+
+[KFileDialog Settings]
+Recent Files[$e]=Screenshot_20220601_231943.png,file:$HOME/Pictures/Screenshot_20220601_231915.png,file:$HOME/Pictures/Screenshot_20220601_231926.png,file:$HOME/Pictures/Screenshot_20220601_231943.png
+Recent URLs[$e]=file:$HOME/Pictures/
+iconViewIconSize=64

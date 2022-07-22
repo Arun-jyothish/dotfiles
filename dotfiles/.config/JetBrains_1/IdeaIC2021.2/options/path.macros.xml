@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MAVEN_REPOSITORY" value="/home/erk/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="/run/media/erk/extra/Downloads1/Downloads0/idea-IC-212.5457.46/plugins/Kotlin/kotlinc" />
+  </component>
+</application>

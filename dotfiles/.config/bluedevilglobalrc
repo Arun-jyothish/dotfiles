@@ -1,0 +1,8 @@
+[Adapters]
+00:E9:3A:59:55:B4_powered=true
+
+[Devices]
+connectedDevices=
+
+[Global]
+launchState=enable

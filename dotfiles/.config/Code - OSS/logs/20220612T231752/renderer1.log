@@ -1,0 +1,4 @@
+[2022-06-12 23:17:54.916] [renderer1] [warning] Skipping extension /home/erk/.vscode-oss/extensions/ms-vscode.references-view-0.0.89 with lower version 0.0.89.
+[2022-06-12 23:17:54.917] [renderer1] [critical] Extension 'ms-python.python CANNOT USE these API proposals 'quickPickSortByLabel, testObserver, notebookEditor'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-06-12 23:17:54.917] [renderer1] [critical] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookControllerKind, notebookDebugOptions, notebookDeprecated, notebookEditor, notebookEditorDecorationType, notebookEditorEdit, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-06-12 23:17:54.979] [renderer1] [info] [eamodio.gitlens]: `git.commit` is not a valid menu identifier

@@ -1,0 +1,279 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Random_Word" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1428">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#50#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="HTML">
+      <summary usageCount="1" lastUsed="1651429936587" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="4" lastUsed="1651566010587" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1651429930479" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="4" lastUsed="1651566010706" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Random_Word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Random_Word" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Random_Word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Random_Word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.10 (Random_Word) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python tests.pytest in erk" executorId="Run" />
+      <element setting="Python.python" executorId="Run" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="Random_Word-history" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_erk - 2022.05.02 at 13h 30m 45s.xml">
+      <configuration name="pytest in erk" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_erk - 2022.05.02 at 13h 32m 46s.xml">
+      <configuration name="pytest in erk" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Pull Requests" weight="0.32994792" />
+      <window_info id="Commit" weight="0.32994792" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2502604" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" visible="true" weight="0.32998085" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.32998085" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998085" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" weight="0.32998085" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32998085" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="7" weight="0.32998085" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998085" />
+      <window_info anchor="bottom" id="Services" order="9" weight="0.32998085" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Version Control</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Pull Requests</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Python Packages</value>
+      <value>TODO</value>
+      <value>Problems View</value>
+      <value>Services</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="206" key="#Inspections" timestamp="1651476059861">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="590" y="206" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1651476059861" />
+    <state x="637" y="178" width="644" height="743" key="#Notifications" timestamp="1651474340238">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="637" y="178" width="644" height="743" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1651474340238" />
+    <state x="444" y="107" key="#Project_Structure" timestamp="1651430379543">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="444" y="107" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1651430379543" />
+    <state x="435" y="173" width="1050" height="806" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651478443569">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="435" y="173" width="1050" height="806" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1651478443569" />
+    <state x="744" y="287" key="FileChooserDialogImpl" timestamp="1651478409468">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="744" y="287" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1651478409468" />
+    <state width="320" height="212" key="Git.Branch.Popup" timestamp="1651431125076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="320" height="212" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1651431125076" />
+    <state width="1874" height="316" key="GridCell.Tab.0.bottom" timestamp="1651478764042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1651478764042" />
+    <state width="1874" height="316" key="GridCell.Tab.0.center" timestamp="1651478764042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="316" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1651478764042" />
+    <state width="1874" height="316" key="GridCell.Tab.0.left" timestamp="1651478764041">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="316" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1651478764041" />
+    <state width="1874" height="316" key="GridCell.Tab.0.right" timestamp="1651478764042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="316" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1651478764042" />
+    <state x="348" y="219" key="SettingsEditor" timestamp="1651478672309">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="348" y="219" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1651478672309" />
+    <state x="556" y="250" key="Vcs.Push.Dialog.v2" timestamp="1651475886657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="556" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1651475886657" />
+    <state x="757" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1651431563095">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="757" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1651431563095" />
+    <state x="778" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1651431411670">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="778" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1651431411670" />
+    <state x="623" y="234" key="search.everywhere.popup" timestamp="1651474905892">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="234" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1651474905892" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/requests" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1428">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#50#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/edited chinju.pdf,file:$HOME/WorkSpace/kicad/PORTABLE_ECG_MACHINE/cp2102.pdf,file:$HOME/WorkSpace/kicad/PORTABLE_ECG_MACHINE/AD8232.pdf,file:$HOME/WorkSpace/kicad/PORTABLE_ECG_MACHINE/arduino_micro_schematic.pdf
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/WorkSpace/kicad/PORTABLE_ECG_MACHINE/,file:$HOME/
+iconViewIconSize=64
+
+[MainWindow]
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA7gAAAO6AAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=1030
+eDP-1 Width 1920x1080=952
+eDP-1 XPosition 1920x1080=4
+eDP-1 YPosition 1920x1080=44
+
+[Recent Files]
+File1[$e]=$HOME/WorkSpace/kicad/led_matrix_20w/FAB FILES/60W pcb layout.pdf
+File2[$e]=$HOME/WorkSpace/kicad/led_matrix_20w/blk wht 60w.pdf
+File3[$e]=$HOME/WorkSpace/kicad/led_pcb/led_50w/50w blk wht pcb.pdf
+File4[$e]=$HOME/WorkSpace/kicad/PORTABLE_ECG_MACHINE/KICAD FILES/.\\Board2Pdf/PORTABLE_ECG_MACHINE-Assembly.pdf
+Name1[$e]=60W pcb layout.pdf
+Name2[$e]=blk wht 60w.pdf
+Name3[$e]=50w blk wht pcb.pdf
+Name4[$e]=PORTABLE_ECG_MACHINE-Assembly.pdf

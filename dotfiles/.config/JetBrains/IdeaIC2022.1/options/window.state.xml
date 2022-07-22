@@ -1,0 +1,37 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1878" height="389" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1878" height="389" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1878" height="389" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1878" height="389" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1878" height="389" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1878" height="389" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1878" height="389" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1878" height="389" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="743" y="226" width="520" height="504" key="FileChooserDialogImpl" timestamp="1654443320767">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="226" width="520" height="504" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1654443320767" />
+    <state width="471" height="94" key="ShowUsagesActions.dimensionServiceKey" timestamp="1654505153259">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="471" height="94" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080" timestamp="1654505153259" />
+    <state x="960" y="540" width="1920" height="1080" key="WELCOME_SCREEN" timestamp="1654443286730">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="960" y="540" width="1920" height="1080" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1654443286730" />
+    <state width="300" height="500" key="manage.recent.projects.popup" timestamp="1653507478904">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="300" height="500" key="manage.recent.projects.popup/0.0.1920.1080" timestamp="1653507478904" />
+    <state x="560" y="153" width="800" height="794" key="new project wizard" timestamp="1654443295750">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="153" width="800" height="794" key="new project wizard/0.0.1920.1080" timestamp="1654443295750" />
+  </component>
+</application>

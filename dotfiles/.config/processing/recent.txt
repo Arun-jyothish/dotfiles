@@ -1,0 +1,10 @@
+2
+/home/erk/sketchbook/new_3d/new_3d.pde
+/home/erk/sketchbook/cube/cube.pde
+/home/erk/APPS/processing-4.0b8/modes/java/examples/Topics/Motion/Brownian/Brownian.pde
+/home/erk/APPS/processing-4.0b8/modes/java/examples/Demos/Graphics/Planets/Planets.pde
+/home/erk/APPS/processing-4.0b8/modes/java/examples/Topics/GUI/Rollover/Rollover.pde
+/home/erk/sketchbook/libraries/peasycam/examples/HelloPeasy/HelloPeasy.pde
+/home/erk/sketchbook/libraries/peasycam/examples/CameraStates/CameraStates.pde
+/home/erk/APPS/processing-4.0b8/modes/java/libraries/serial/examples/SimpleRead/SimpleRead.pde
+/home/erk/APPS/processing-4.0b8/modes/java/examples/Demos/Graphics/Particles/Particles.pde

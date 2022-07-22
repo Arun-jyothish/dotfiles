@@ -1,0 +1,78 @@
+[1]
+FullScreen=false
+HistoryItemViewT0_0Buffer=\x00\x00\x000https://www.spacemacs.org/doc/DOCUMENTATION.html\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xff\xff\xff\xff
+HistoryItemViewT0_0DoPost=false
+HistoryItemViewT0_0LocationBarURL=https://www.spacemacs.org/doc/DOCUMENTATION.html
+HistoryItemViewT0_0PageReferrer=
+HistoryItemViewT0_0PageSecurity=0
+HistoryItemViewT0_0PostContentType=
+HistoryItemViewT0_0PostData=
+HistoryItemViewT0_0StrServiceName=webenginepart
+HistoryItemViewT0_0StrServiceType=text/html
+HistoryItemViewT0_0Title=Spacemacs documentation
+HistoryItemViewT0_0Url=https://www.spacemacs.org/doc/DOCUMENTATION.html
+RootItem=Tabs0
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPIAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAEo/////wAAAAAAAAAAAAAAAgAAAAMAAAAeAGIAbwBvAGsAbQBhAHIAawBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAWAGgAdABtAGwAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAGgBzAHAAZQBlAGMAaABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+StatusBar=Enabled
+Tabs0_Children=ViewT0
+Tabs0_activeChildIndex=0
+ViewT0_CurrentHistoryItem=0
+ViewT0_LinkedView=false
+ViewT0_LockedLocation=false
+ViewT0_NumberOfHistoryItems=1
+ViewT0_PassiveMode=false
+ViewT0_ServiceName=webenginepart
+ViewT0_ServiceType=text/html
+ViewT0_ShowStatusBar=true
+ViewT0_ToggleView=false
+eDP-1 Height 1920x1080=1044
+eDP-1 Width 1920x1080=1920
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition 1920x1080=36
+
+[2]
+FullScreen=false
+HistoryItemViewT0_0Buffer=\x00\x00\x00\nkonq:blank\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xff\xff\xff\xff
+HistoryItemViewT0_0DoPost=false
+HistoryItemViewT0_0LocationBarURL=konq:blank
+HistoryItemViewT0_0PageReferrer=
+HistoryItemViewT0_0PageSecurity=0
+HistoryItemViewT0_0PostContentType=
+HistoryItemViewT0_0PostData=
+HistoryItemViewT0_0StrServiceName=webenginepart
+HistoryItemViewT0_0StrServiceType=text/html
+HistoryItemViewT0_0Title=Be free.
+HistoryItemViewT0_0Url=konq:blank
+RootItem=Tabs0
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPIAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAEo/////wAAAAAAAAAAAAAAAgAAAAMAAAAeAGIAbwBvAGsAbQBhAHIAawBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAWAGgAdABtAGwAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAGgBzAHAAZQBlAGMAaABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+StatusBar=Enabled
+Tabs0_Children=ViewT0
+Tabs0_activeChildIndex=0
+ViewT0_CurrentHistoryItem=0
+ViewT0_LinkedView=false
+ViewT0_LockedLocation=false
+ViewT0_NumberOfHistoryItems=1
+ViewT0_PassiveMode=false
+ViewT0_ServiceName=webenginepart
+ViewT0_ServiceType=text/html
+ViewT0_ShowStatusBar=true
+ViewT0_ToggleView=false
+eDP-1 Window-Maximized 1920x1080=true
+
+[Number]
+NumberOfWindows=2
+
+[WindowProperties1]
+ClassName=KonqMainWindow
+ObjectName=MainWindow#2
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPIAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAEo/////wAAAAAAAAAAAAAAAgAAAAMAAAAeAGIAbwBvAGsAbQBhAHIAawBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAWAGgAdABtAGwAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAGgBzAHAAZQBlAGMAaABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+eDP-1 Height 1920x1080=1044
+eDP-1 Width 1920x1080=1920
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition 1920x1080=36
+
+[WindowProperties2]
+ClassName=KonqMainWindow
+ObjectName=MainWindow#3
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPIAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAEo/////wAAAAAAAAAAAAAAAgAAAAMAAAAeAGIAbwBvAGsAbQBhAHIAawBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAWAGgAdABtAGwAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAGgBzAHAAZQBlAGMAaABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+eDP-1 Window-Maximized 1920x1080=true

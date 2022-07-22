@@ -1,0 +1,14 @@
+[Game]
+Name_Pl2=Player 2
+
+[KgDifficulty]
+Level=Easy
+
+[MainWindow]
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAArwAAAGkAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=487
+eDP-1 Width 1920x1080=700
+eDP-1 XPosition 1920x1080=960
+eDP-1 YPosition 1920x1080=44

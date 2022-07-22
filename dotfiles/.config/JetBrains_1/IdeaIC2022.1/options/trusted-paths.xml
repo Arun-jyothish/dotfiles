@@ -1,0 +1,13 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$" value="true" />
+        <entry key="$USER_HOME$/.cache/JetBrains/IdeaIC2022.1/demo/IdeaLearningProject" value="true" />
+        <entry key="$USER_HOME$/WorkSpace/code/Portable-ECG" value="true" />
+        <entry key="$USER_HOME$/WorkSpace/code/untitled" value="true" />
+        <entry key="$USER_HOME$/WorkSpace/code/web-x" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

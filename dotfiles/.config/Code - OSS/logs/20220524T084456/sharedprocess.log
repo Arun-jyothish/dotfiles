@@ -1,0 +1,36 @@
+[2022-05-24 08:45:00.286] [sharedprocess] [info] Starting worker process with pid 2106 (type: fileWatcher, window: 1).
+[2022-05-24 08:45:04.559] [sharedprocess] [info] Getting Manifest... bierner.markdown-mermaid
+[2022-05-24 08:45:04.561] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-05-24 08:45:04.562] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-05-24 08:45:04.564] [sharedprocess] [info] Getting Manifest... teamhub.teamhub
+[2022-05-24 08:45:04.566] [sharedprocess] [info] Getting Manifest... zhuangtongfa.material-theme
+[2022-05-24 08:45:06.539] [sharedprocess] [info] Installing extension: bierner.markdown-mermaid
+[2022-05-24 08:45:06.626] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2022-05-24 08:45:06.713] [sharedprocess] [info] Installing extension: teamhub.teamhub
+[2022-05-24 08:45:06.862] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-05-24 08:45:07.032] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-05-24 08:45:09.000] [sharedprocess] [info] Downloaded extension: bierner.markdown-mermaid /home/erk/.config/Code - OSS/CachedExtensionVSIXs/bierner.markdown-mermaid-1.14.0
+[2022-05-24 08:45:09.111] [sharedprocess] [info] Extracted extension to /home/erk/.vscode-oss/extensions/.b9789698-d2fd-49b5-b2cb-1902cc3311c5: bierner.markdown-mermaid
+[2022-05-24 08:45:09.124] [sharedprocess] [info] Renamed to /home/erk/.vscode-oss/extensions/bierner.markdown-mermaid-1.14.0
+[2022-05-24 08:45:09.127] [sharedprocess] [info] Extracting completed. bierner.markdown-mermaid
+[2022-05-24 08:45:09.133] [sharedprocess] [info] Extension installed successfully: bierner.markdown-mermaid
+[2022-05-24 08:45:09.164] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /home/erk/.config/Code - OSS/CachedExtensionVSIXs/zhuangtongfa.material-theme-3.13.29
+[2022-05-24 08:45:09.266] [sharedprocess] [info] Extracted extension to /home/erk/.vscode-oss/extensions/.665f434e-0071-479f-b4a8-afac04b13713: zhuangtongfa.material-theme
+[2022-05-24 08:45:09.279] [sharedprocess] [info] Renamed to /home/erk/.vscode-oss/extensions/zhuangtongfa.material-theme-3.13.29
+[2022-05-24 08:45:09.281] [sharedprocess] [info] Extracting completed. zhuangtongfa.material-theme
+[2022-05-24 08:45:09.286] [sharedprocess] [info] Extension installed successfully: zhuangtongfa.material-theme
+[2022-05-24 08:45:10.716] [sharedprocess] [info] Downloaded extension: teamhub.teamhub /home/erk/.config/Code - OSS/CachedExtensionVSIXs/teamhub.teamhub-15.0.7
+[2022-05-24 08:45:11.090] [sharedprocess] [info] Extracted extension to /home/erk/.vscode-oss/extensions/.ffcab3da-9541-4262-b9a3-aaa6d9083c3f: teamhub.teamhub
+[2022-05-24 08:45:11.105] [sharedprocess] [info] Renamed to /home/erk/.vscode-oss/extensions/teamhub.teamhub-15.0.7
+[2022-05-24 08:45:11.107] [sharedprocess] [info] Extracting completed. teamhub.teamhub
+[2022-05-24 08:45:11.113] [sharedprocess] [info] Extension installed successfully: teamhub.teamhub
+[2022-05-24 08:45:12.017] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/erk/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.5.1001290443
+[2022-05-24 08:45:12.289] [sharedprocess] [info] Downloaded extension: ms-python.python /home/erk/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2022.6.2
+[2022-05-24 08:45:13.004] [sharedprocess] [info] Extracted extension to /home/erk/.vscode-oss/extensions/.333a83a7-37cf-43e3-b248-0fb8c4227487: ms-toolsai.jupyter
+[2022-05-24 08:45:13.022] [sharedprocess] [info] Renamed to /home/erk/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443
+[2022-05-24 08:45:13.034] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-05-24 08:45:13.041] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-05-24 08:45:14.889] [sharedprocess] [info] Extracted extension to /home/erk/.vscode-oss/extensions/.f0c8e1a7-44db-4641-9a1d-d6e2e836181f: ms-python.python
+[2022-05-24 08:45:14.906] [sharedprocess] [info] Renamed to /home/erk/.vscode-oss/extensions/ms-python.python-2022.6.2
+[2022-05-24 08:45:14.913] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-05-24 08:45:14.922] [sharedprocess] [info] Extension installed successfully: ms-python.python

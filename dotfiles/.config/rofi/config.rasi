@@ -1,0 +1,13 @@
+/** Basic config file **/
+ 
+ configuration {
+	display-drun: "applications: ";
+	display-window: "windows: ";
+	drun-display-format: "{icon}{name}";
+	show-icons:	true;
+	icon-theme:	"Papirus";
+	modi: "window,run,drun";
+ }
+
+
+@theme "/home/erk/.config/rofi/launchers/misc/blurry.rasi"

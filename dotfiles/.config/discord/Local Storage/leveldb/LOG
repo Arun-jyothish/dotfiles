@@ -1,0 +1,6 @@
+2022/05/17-20:56:46.518 b4f3 Reusing MANIFEST /home/erk/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/05/17-20:56:46.518 b4f3 Recovering log #9
+2022/05/17-20:56:46.518 b4f3 Reusing old log /home/erk/.config/discord/Local Storage/leveldb/000009.log 
+2022/05/17-22:42:09.663 b501 Level-0 table #13: started
+2022/05/17-22:42:09.676 b501 Level-0 table #13: 421498 bytes OK
+2022/05/17-22:42:09.681 b501 Delete type=0 #9

@@ -1,0 +1,125 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">RE9C</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">MzQ=</entry>
+        <entry encoding="base64">JXMvRE9CL2RvYi9nYw==</entry>
+        <entry encoding="base64">bnVtYmVyID0gcmVsYXRpdmU=</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1651478846010">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/code/untitled/hello.md" timestamp="1653410691144">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="5" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/code/Portable-ECG/HTML File.html" timestamp="1651915058877">
+        <mark key="'" line="4" column="71" />
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="19" />
+      </file>
+      <file name="/a.dummy" timestamp="1651475228277">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/code/web-x/index.html" timestamp="1651574066382">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/code/Random_Word/main.py" timestamp="1651478357671">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="95" column="23" />
+        <mark key="]" line="95" column="24" />
+        <mark key="." line="95" column="23" />
+        <mark key="^" line="95" column="24" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/code/web-x/main.js" timestamp="1651574563728">
+        <mark key="'" line="2" column="1" />
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkSpace/code/Portable-ECG/README.md" timestamp="1651914322596">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="47" />
+        <mark key="^" line="40" column="47" />
+        <mark key="." line="40" column="46" />
+      </file>
+      <file name="/fragment.java" timestamp="1652291344481">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1653506240215">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="28" column="0" filename="$USER_HOME$/WorkSpace/code/Random_Word/main.py" />
+      <jump line="3" column="1" filename="$USER_HOME$/WorkSpace/code/web-x/main.js" />
+      <jump line="8" column="19" filename="$USER_HOME$/WorkSpace/code/Portable-ECG/README.md" />
+      <jump line="10" column="3" filename="$USER_HOME$/WorkSpace/code/Portable-ECG/README.md" />
+      <jump line="52" column="34" filename="$USER_HOME$/WorkSpace/code/Portable-ECG/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/WorkSpace/code/Portable-ECG/README.md" />
+      <jump line="4" column="71" filename="$USER_HOME$/WorkSpace/code/Portable-ECG/HTML File.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/WorkSpace/code/Portable-ECG/README.md" />
+      <jump line="38" column="0" filename="$USER_HOME$/WorkSpace/code/Random_Word/main.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGkgLS0+Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+UG9ydGFibGUtRUNHIG1hY2hpbmU8L3RpdGxlPgo8YiBzdHlsZT0iIj5QT1JUQUJMRSBFQ0cgTUFDSElORTwvYmo+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFnZSA9IGFnZQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">IyBoZWxsb3dvcmxkaG93IGFyIGUgdXlvdSMjIGhvcGUgYWxsIGFyZSBmaWVubmUjIGxvb2s=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">RE9C</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-substitute encoding="base64">RE9C</last-substitute>
+      <last-replace encoding="base64">ZG9i</last-replace>
+      <last-pattern encoding="base64">RE9C</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

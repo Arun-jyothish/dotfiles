@@ -1,0 +1,4 @@
+[2022-05-06 16:09:23.795] Unable to read sessions from storage
+Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+[2022-05-06 16:09:23.870] [GIT  ] [/home/erk/WorkSpace/code/Portable-ECG] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 74 ms
+

@@ -1,0 +1,11 @@
+[KFileDialog Settings]
+Recent Files[$e]=iwscan.txt,file:$HOME/iwscan.txt
+Recent URLs[$e]=file:$HOME/
+iconViewIconSize=64
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOxAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition 1920x1080=968
+eDP-1 YPosition 1920x1080=44

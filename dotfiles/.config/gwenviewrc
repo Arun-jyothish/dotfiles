@@ -1,0 +1,44 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+Recent Files[$e]=file:$HOME/WorkSpace/extra work/rathul project cropperd.png,file:$HOME/WorkSpace/extra work/rathul project cropperd.png
+Recent URLs[$e]=file:$HOME/WorkSpace/extra work/
+iconViewIconSize=64
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=1044
+eDP-1 Width 1920x1080=1920
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition 1920x1080=36
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/iot camp/newping code sample.png
+File10[$e]=$HOME/Pictures/Screenshot_20220606_113249.png
+File2[$e]=$HOME/Pictures/iot camp/ultrasonic connection diagram.png
+File3[$e]=$HOME/Pictures/iot camp/new_ping method reference.png
+File4[$e]=$HOME/Pictures/iot camp/Screenshot_20220710_130732.png
+File5[$e]=$HOME/Pictures/iot camp/Screenshot_20220710_125028.png
+File6[$e]=$HOME/Pictures/iot camp/Screenshot_20220710_123806.png
+File7[$e]=$HOME/Pictures/iot camp/Screenshot_20220710_123747.png
+File8[$e]=$HOME/Pictures/iot camp/Screenshot_20220710_121247.png
+File9[$e]=$HOME/Pictures/iot camp/Screenshot_20220710_120228.png
+Name1[$e]=newping code sample.png
+Name10[$e]=Screenshot_20220606_113249.png
+Name2[$e]=ultrasonic connection diagram.png
+Name3[$e]=new_ping method reference.png
+Name4[$e]=Screenshot_20220710_130732.png
+Name5[$e]=Screenshot_20220710_125028.png
+Name6[$e]=Screenshot_20220710_123806.png
+Name7[$e]=Screenshot_20220710_123747.png
+Name8[$e]=Screenshot_20220710_121247.png
+Name9[$e]=Screenshot_20220710_120228.png

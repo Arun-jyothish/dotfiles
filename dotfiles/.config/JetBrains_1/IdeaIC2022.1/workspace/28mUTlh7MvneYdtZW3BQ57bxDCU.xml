@@ -1,0 +1,260 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Portable-ECG" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML File.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web-x/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Random_Word/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="768">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSS">
+      <summary usageCount="27" lastUsed="1653506178118" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="27" lastUsed="1653506177662" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="12" lastUsed="1653506177916" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="26" lastUsed="1653506177858" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="12" lastUsed="1653506178040" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="2" lastUsed="1653409607640" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/HTML File.html" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="README.md" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portable-ECG" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="Portable-ECG-history" />
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="Portable-ECG-history1" />
+    </option>
+    <option name="mySelectedTabIndex" value="1" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.5017513" visible="true" weight="0.2408854" />
+      <window_info id="Learn" order="2" weight="0.32994792" />
+      <window_info id="Structure" order="3" sideWeight="0.4982487" side_tool="true" visible="true" weight="0.2408854" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" weight="0.32998085" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32998085" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="7" visible="true" weight="0.32998085" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3347701" />
+      <window_info anchor="bottom" id="Services" order="9" weight="0.32998085" />
+      <window_info anchor="bottom" id="Sequence Diagram" order="10" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.2502604" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.119531244" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" weight="0.32998085" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32998085" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="7" weight="0.32998085" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998085" />
+      <window_info anchor="bottom" id="Services" order="9" visible="true" weight="0.32998085" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Structure</value>
+      <value>Learn</value>
+      <value>Terminal</value>
+      <value>Notifications</value>
+      <value>Services</value>
+      <value>TODO</value>
+      <value>Python Packages</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="184" width="808" height="732" key="#Plugins" timestamp="1651857502009">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="184" width="808" height="732" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1651857502009" />
+    <state x="435" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653410226276">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="435" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1653410226276" />
+    <state x="556" y="215" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1652285918602">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="556" y="215" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652285918602" />
+    <state x="744" y="288" key="FileChooserDialogImpl" timestamp="1653504056191">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="744" y="288" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1653504056191" />
+    <state x="460" y="165" width="1184" height="750" key="SettingsEditor" timestamp="1653506272050">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="460" y="165" width="1184" height="750" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1653506272050" />
+    <state x="560" y="141" width="800" height="797" key="new project wizard" timestamp="1653410643231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="141" width="800" height="797" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1653410643231" />
+    <state x="624" y="244" key="run.anything.popup" timestamp="1653409823486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="244" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1653409823486" />
+    <state x="623" y="236" width="672" height="704" key="search.everywhere.popup" timestamp="1653503832967">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="236" width="672" height="704" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1653503832967" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HTML File.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-x/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Random_Word/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

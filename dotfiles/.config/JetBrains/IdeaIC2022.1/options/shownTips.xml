@@ -1,0 +1,28 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="ColumnSelection.html" value="1654661408248" />
+        <entry key="DiffChevron.html" value="1654751946935" />
+        <entry key="FinishBySmartEnter.html" value="1653664195169" />
+        <entry key="InjectSQLLanguage.html" value="1658029818750" />
+        <entry key="IntroduceVariable.html" value="1654145511719" />
+        <entry key="MoveUpDown.html" value="1654963037427" />
+        <entry key="PostfixCompletion.html" value="1656326454238" />
+        <entry key="QuickJavaDoc.html" value="1655377470579" />
+        <entry key="ShowUsages.html" value="1654751948059" />
+        <entry key="SmartTypeAfterNew.html" value="1657876553375" />
+        <entry key="SmartTypeCasting.html" value="1656656743614" />
+        <entry key="SmartTypeCompletion.html" value="1653504870136" />
+        <entry key="SpeedSearch.html" value="1654661442525" />
+        <entry key="SplitEditor.html" value="1654520937488" />
+        <entry key="jump_to_colors_fonts.html" value="1658129409510" />
+        <entry key="local_history.html" value="1655139491704" />
+        <entry key="partial_git_commit.html" value="1654849393717" />
+        <entry key="pull_requests.html" value="1653760838293" />
+        <entry key="smart_selection.html" value="1653991372280" />
+        <entry key="structural_search.html" value="1654425082390" />
+      </map>
+    </option>
+  </component>
+</application>
